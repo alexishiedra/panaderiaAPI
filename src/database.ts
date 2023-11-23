@@ -24,10 +24,10 @@ export const pool = new Pool({
 //external url de render
 
 export const pool = new Pool({
-    user:'davidmillan',
-    host:'dpg-ckuhmr237rbc738ccnq0-a.oregon-postgres.render.com',
-    password: 'D3zujgTZLkwBCPSowXCPzLBqFAEi27m8',
-    database: 'menusdb',
+    user:'brunotoledano',
+    host:'dpg-cl6klju6m8qc738b88ag-a.oregon-postgres.render.com',
+    password: 'xiB7GOXYDZILLXagwpBEyU47mFXExVom',
+    database: 'panaderia',
     port: 5432,
     ssl:true
 });
