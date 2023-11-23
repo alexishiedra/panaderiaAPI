@@ -27,7 +27,7 @@ export const pool = new Pool({
     user:'brunotoledano',
     host:'dpg-cl6klju6m8qc738b88ag-a.oregon-postgres.render.com',
     password: 'xiB7GOXYDZILLXagwpBEyU47mFXExVom',
-    database: 'panaderia',
+    database: 'panaderiasbd',
     port: 5432,
     ssl:true
 });
